@@ -1,4 +1,6 @@
 # EEEE3078-Project
+TITLE: DEMONSTRATION OF AI VISION STATE OF THE ART ALGORITHMS ON CPU+GPU AND FPGA PLATFORMS - AI ACCELERATED
+
 This project was developed for my final year project
 
 
